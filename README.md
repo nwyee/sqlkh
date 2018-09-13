@@ -1,0 +1,2 @@
+# sqlkh
+notes for sql
